@@ -1,0 +1,32 @@
+.contact-section {
+    padding: 50px 0;
+    .container {
+        position: relative;
+        display: flex;
+        align-items: center;
+        gap: 50px;
+        .img-wrapper {
+            width: 50%;
+            opacity: 0;
+            img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+        }
+    }
+    &--content {
+        width: 50%;
+        opacity: 0;
+        animation-delay: 0.5s;
+        h2 {
+            margin-bottom: 50px;
+        }
+        a {
+            display: block;
+            margin: 50px auto 0;
+            animation-delay: 1s;
+            opacity: 0;
+        }
+    }
+}
