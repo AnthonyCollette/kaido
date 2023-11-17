@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Montserrat Regular';
+    src: url('../../fonts/Montserrat/Montserrat-Regular.ttf'), format('truetype');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Montserrat Bold';
+    src: url('../../fonts/Montserrat/Montserrat-Bold.ttf'), format('truetype');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Montserrat Black';
+    src: url('../../fonts/Montserrat/Montserrat-Black.ttf'), format('truetype');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Lato Regular';
+    src: url('../../fonts/Lato/Lato-Regular.ttf'), format('truetype');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Lato Black';
+    src: url('../../fonts/Lato/Lato-Black.ttf'), format('truetype');
+    font-display: swap;
+}
+
+// FONTS
+$primary-regular: 'Lato Regular';
+$primary-black: 'Lato Black';
+$secondary-regular: 'Montserrat Regular';
+$secondary-bold: 'Montserrat Bold';
+$secondary-black: 'Montserrat Black';
+
+// COLORS
+$color-001: #000000;
+$color-002: #ffffff;
+$color-003: #F2D6BD;
+$color-004: #BF7F5A;
+$color-005: #BF7C41;
+$color-006: #400101;
+$color-007: #F2F2F2;

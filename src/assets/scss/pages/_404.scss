@@ -1,0 +1,19 @@
+.error-404 {
+    main .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        p {
+            margin-bottom: 200px;
+            @include fontSize(24);
+        }
+
+        a {
+            display: block;
+            margin-bottom: 50px;
+            text-decoration: underline;
+            color: $color-004;
+        }
+    }
+}

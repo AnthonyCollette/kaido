@@ -1,13 +1,32 @@
-import React from 'react';
+import React, { useState, useEffect, Suspense } from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+
+export function useIsVisible(ref) {
+  const [isIntersecting, setIntersecting] = useState(false);
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(([entry]) =>
+      setIntersecting(entry.isIntersecting)
+    );
+
+    observer.observe(ref.current);
+    return () => {
+      observer.disconnect();
+    };
+  }, [ref]);
+
+  return isIntersecting;
+}
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Suspense fallback={<></>}>
+      <App />
+    </Suspense>
   </React.StrictMode>
 );
 

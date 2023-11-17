@@ -1,0 +1,36 @@
+{
+    "Nav": {
+        "home": "Accueil",
+        "contact": "Contact"
+    },
+    "Hero": {
+        "title": "Découvrez la magie du Maroc",
+        "desc": "Chez Kaido, nous croyons en la puissance de la nature pour révéler la beauté authentique qui réside en chacun de nous. Notre engagement envers la qualité et l'authenticité se manifeste à travers notre huile d'argan, un trésor venu du Maroc, réputé pour ses bienfaits exceptionnels pour la peau et les cheveux. Chaque goutte de notre huile d'argan pure est le fruit d'un savoir-faire traditionnel et d'un profond respect pour la nature. Nous sommes fiers de vous offrir un produit qui va au-delà de l'esthétique, apportant une expérience sensorielle et régénératrice à chaque utilisation. Explorez notre collection et découvrez comment l'huile d'argan peut transformer votre routine beauté, vous permettant de rayonner naturellement, avec confiance et éclat.",
+        "cta": "Commencez votre voyage"
+    },
+    "Presentation": {
+        "title": "L'élixir d'Argan : découvrez notre huile exceptionnelle",
+        "first_item": {
+            "title": "Hydratation intense pour la peau",
+            "desc": "L'huile d'argan est une oasis d'hydratation pour la peau assoiffée. Grâce à sa richesse en acides gras essentiels, en particulier l'acide linoléique et l'acide oléique, cette huile précieuse pénètre en profondeur pour nourrir et hydrater la peau. Elle restaure la barrière cutanée naturelle, laissant la peau douce, souple et revitalisée. Que vous l'appliquiez sur votre visage ou votre corps, l'huile d'argan offre une hydratation intense sans laisser de sensation grasse, révélant une peau rayonnante et bien nourrie. L'huile d'argan est une oasis d'hydratation pour la peau assoiffée. Grâce à sa richesse en acides gras essentiels, en particulier l'acide linoléique et l'acide oléique, cette huile précieuse pénètre en profondeur pour nourrir et hydrater la peau. Elle restaure la barrière cutanée naturelle, laissant la peau douce, souple et revitalisée. Que vous l'appliquiez sur votre visage ou votre corps, l'huile d'argan offre une hydratation intense sans laisser de sensation grasse, révélant une peau rayonnante et bien nourrie. L'huile d'argan est une oasis d'hydratation pour la peau assoiffée. Grâce à sa richesse en acides gras essentiels, en particulier l'acide linoléique et l'acide oléique, cette huile précieuse pénètre en profondeur pour nourrir et hydrater la peau. Elle restaure la barrière cutanée naturelle, laissant la peau douce, souple et revitalisée. Que vous l'appliquiez sur votre visage ou votre corps, l'huile d'argan offre une hydratation intense sans laisser de sensation grasse, révélant une peau rayonnante et bien nourrie."
+        },
+        "second_item": {
+            "title": "Régénération cellulaire anti-âge",
+            "desc": "L'huile d'argan est un puissant allié dans la lutte contre les signes du vieillissement cutané. Grâce à sa composition riche en vitamine E, un antioxydant naturel, elle favorise la régénération cellulaire et protège la peau des radicaux libres responsables du vieillissement prématuré. En incorporant l'huile d'argan dans votre routine de soins, vous nourrissez votre peau en profondeur, atténuant les rides et les ridules, et préservant la jeunesse et la vitalité de votre teint."
+        },
+        "third_item": {
+            "title": "Cheveux forts et soyeux",
+            "desc": "Pour des cheveux magnifiquement nourris, l'huile d'argan est un trésor inestimable. Enrichie en acides gras, en vitamines et en antioxydants, cette huile revitalise les cheveux secs et abîmés, les fortifiant de la racine aux pointes. Elle apporte également une brillance naturelle et dompte les frisottis, laissant vos cheveux soyeux et maniables. Que ce soit en traitement capillaire intensif ou en sérum quotidien, l'huile d'argan révèle la beauté naturelle de vos cheveux"
+        }
+    },
+    "Footer": {
+        "paragraph": "Plongez dans l'authenticité du Maroc avec notre huile d'argan pure, directement récoltée des terres ensoleillées du royaume. Chez Kaido, nous sommes fiers de vous offrir une expérience sensorielle unique, capturant la richesse naturelle de l'arganier. Chaque goutte de notre huile d'argan représente le savoir-faire traditionnel marocain et l'engagement envers la qualité. Explorez la beauté de la nature, découvrez les bienfaits de l'argan et laissez-vous emporter par une tradition millénaire, encapsulée dans chaque flacon que nous mettons à votre disposition.",
+        "author_site": "Textes et images par Kaido Sama",
+        "developer_site": "© 2023 - Site créé par Anthony Collette",
+        "social_media": "Retrouvez-moi ici"
+    },
+    "404": {
+        "title": "Oups, il semblerait que ce lien n'existe pas, désolé !",
+        "link": "Retourner à la page d'accueil"
+    }
+}

@@ -1,0 +1,53 @@
+body {
+    font-family: $primary-regular;
+    @include fontSize(18);
+    line-height: 1.4;
+}
+
+h1 {
+    font-family: $secondary-bold;
+    line-height: 1;
+    .hero & {
+        @include fontSize(68);
+        margin-bottom: 50px;
+        max-width: 70%;
+    }
+    .error-404 & {
+        @include fontSize(280);
+        margin: 200px 0 20px;
+    }
+}
+
+h2 {
+    font-family: $primary-black;
+    @include fontSize(32);
+    text-align: center;
+}
+
+h3 {
+    font-family: $secondary-bold;
+    text-align: center;
+    @include fontSize(24);
+}
+
+h4 {
+    font-family: $secondary-bold;
+    text-align: center;
+}
+
+h5 {
+    font-family: $secondary-bold;
+    @include fontSize(21);
+}
+
+.active {
+    color: $color-003;
+}
+
+.btn {
+    @include fontSize(18);
+}
+
+footer {
+    @include fontSize(16);
+}

@@ -1,0 +1,21 @@
+// UTILS
+@import './utils/variables';
+@import './utils/mixins';
+@import './utils/animations';
+
+// BASE
+@import './base/reset';
+@import './base/general';
+@import './base/typography';
+
+// COMPONENTS
+@import './components/buttons';
+
+// LAYOUTS
+@import './layouts/nav';
+@import './layouts/hero';
+@import './layouts/presentation';
+@import './layouts/footer';
+
+// PAGES
+@import './pages/404';

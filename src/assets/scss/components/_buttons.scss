@@ -1,0 +1,37 @@
+.btn {
+    border: none;
+    background-color: $color-002;
+    display: block;
+    width: fit-content;
+    cursor: pointer;
+    padding: 20px 50px;
+    position: relative;
+    overflow: hidden;
+    z-index: 2;
+    &--primary {
+        background-color: $color-003;
+        color: $color-001;
+        transition: all 0.4s ease-in-out;
+        &::before {
+            content: '';
+            width: 0;
+            height: 0;
+            background-color: $color-004;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            transition: all 0.5s ease-in-out;
+            z-index: -1;
+            border-radius: 50px;
+            transform-origin: center;
+        }
+        &:hover {
+            color: $color-002;
+            &::before {
+                width: 400px;
+                height: 200px;
+            }
+        }
+    }
+}
