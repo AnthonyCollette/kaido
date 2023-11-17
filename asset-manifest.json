@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kaido/static/css/main.3d74ca3c.css",
+    "main.js": "/kaido/static/js/main.d083b712.js",
+    "static/js/787.d0c7d9b2.chunk.js": "/kaido/static/js/787.d0c7d9b2.chunk.js",
+    "static/media/young.jpg": "/kaido/static/media/young.7e7a9f3289a71f8d1e1c.jpg",
+    "static/media/hairs.jpg": "/kaido/static/media/hairs.b9f69315c258aa9b38df.jpg",
+    "static/media/hydratation.jpg": "/kaido/static/media/hydratation.71841eeb300aa84dfa55.jpg",
+    "static/media/banner.jpg": "/kaido/static/media/banner.b0fbdafb86bbe37059dd.jpg",
+    "static/media/Montserrat-Black.ttf": "/kaido/static/media/Montserrat-Black.beacc26b4bbaaf608567.ttf",
+    "static/media/Montserrat-Bold.ttf": "/kaido/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/Montserrat-Regular.ttf": "/kaido/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/Lato-Regular.ttf": "/kaido/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/Lato-Black.ttf": "/kaido/static/media/Lato-Black.57dee8aface5572f9101.ttf",
+    "static/media/logo.png": "/kaido/static/media/logo.a9b3265acfa7cb52d0a9.png",
+    "index.html": "/kaido/index.html",
+    "main.3d74ca3c.css.map": "/kaido/static/css/main.3d74ca3c.css.map",
+    "main.d083b712.js.map": "/kaido/static/js/main.d083b712.js.map",
+    "787.d0c7d9b2.chunk.js.map": "/kaido/static/js/787.d0c7d9b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d74ca3c.css",
+    "static/js/main.d083b712.js"
+  ]
+}
