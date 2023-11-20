@@ -10,8 +10,8 @@ function App(){
     <div className="App">
       <BrowserRouter>
         <Routes>
-          <Route path="/kaido" element={<Homepage />} />
-          <Route path="/kaido/contact" element={<Contact />} />
+          <Route path="/" element={<Homepage />} />
+          <Route path="/contact" element={<Contact />} />
           <Route path="*" element={<Error404 />} />
         </Routes>
       </BrowserRouter>
