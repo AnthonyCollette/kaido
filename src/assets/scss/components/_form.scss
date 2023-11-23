@@ -1,0 +1,42 @@
+form {
+    background-color: $color-006;
+    border: 2px solid $color-006;
+    padding: 50px;
+    width: 500px;
+    .form-group {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 30px;
+        @include fontSize(18);
+        position: relative;
+    }
+    label {
+        color: $color-006;
+        position: absolute;
+        left: 5px;
+        background-color: $color-002;
+        padding: 0 10px;
+    }
+    input {
+        border: 2px solid $color-006;
+        height: 50px;
+    }
+    textarea {
+        border: 2px solid $color-006;
+        height: 300px;
+        resize: none;
+    }
+    .btn {
+        width: 100%;
+    }
+    .fg-input {
+        label {
+            bottom: 12px;
+        }
+    }
+    .fg-textarea {
+        label {
+            top: 5px;
+        }
+    }
+}

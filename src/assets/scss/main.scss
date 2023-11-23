@@ -10,6 +10,7 @@
 
 // COMPONENTS
 @import './components/buttons';
+@import './components/form';
 
 // LAYOUTS
 @import './layouts/nav';
@@ -17,6 +18,8 @@
 @import './layouts/presentation';
 @import './layouts/contact';
 @import './layouts/footer';
+@import './layouts/about';
+@import './layouts/certifications';
 
 // PAGES
 @import './pages/404';

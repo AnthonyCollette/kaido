@@ -1,6 +1,7 @@
 {
     "Nav": {
         "home": "Home",
+        "about": "About",
         "contact": "Contact"
     },
     "Hero": {
@@ -21,6 +22,16 @@
         "third_item": {
             "title": "Strong, silky hair",
             "desc": "For beautifully nourished hair, argan oil is a priceless treasure. Enriched with fatty acids, vitamins and antioxidants, this oil revitalizes dry, damaged hair, strengthening it from root to tip. It also adds natural shine and tames frizz, leaving your hair silky and manageable. Whether used as an intensive hair treatment or a daily serum, argan oil reveals your hair's natural beauty."
+        }
+    },
+    "About-Page": {
+        "Hero": {
+            "title": "Who are we ?",
+            "desc": "Explore our company dedicated to argan oil, an authentic Moroccan treasure. As specialists in this Moroccan treasure, we are proud to present our argan oils, both cosmetic and edible. Our history is deeply rooted in the Moroccan landscape, where the argan tree thrives under the intense sun. Our meticulous harvesting methods perpetuate an age-old tradition. Every drop of oil we offer testifies to our commitment to quality, sustainability and the well-being of local communities. Immerse yourself in an authentic experience that harmoniously blends beauty and indulgence with our products."
+        },
+        "Certifications": {
+            "title": "Certifications",
+            "desc": "Certified to the highest quality, our cosmetic argan oil is the result of a rigorous process, guaranteeing a pure, authentic product that complies with the most demanding international standards. Discover the essence of argan through our oil, a precious treasure that transcends time and space. Certification by Ecocert attests to our commitment to sustainable and responsible farming practices, guaranteeing argan oil of exceptional quality while preserving the balance of our precious ecosystem."
         }
     },
     "Contact-Section": {

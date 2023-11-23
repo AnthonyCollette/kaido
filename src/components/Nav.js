@@ -22,6 +22,11 @@ const Nav = () => {
                         </NavLink>
                     </li>
                     <li>
+                        <NavLink to="/about" className={({ isActive }) => isActive ? 'active' : ''}>
+                            {t('Nav.about')}
+                        </NavLink>
+                    </li>
+                    <li>
                         <NavLink to="/contact" className={({ isActive }) => isActive ? 'active' : ''}>
                             {t('Nav.contact')}
                         </NavLink>

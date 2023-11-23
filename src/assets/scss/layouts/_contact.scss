@@ -51,3 +51,29 @@
         }
     }
 }
+
+.contact-page {
+    padding: 100px 0 300px;
+    &--content {
+        max-width: 60%;
+    }
+    .container {
+        color: $color-002;
+        padding: 50px;
+        position: relative;
+        background-color: $color-004;
+    }
+    h1 {
+        @include fontSize(48);
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    p {
+        margin-bottom: 20px;
+    }
+    form {
+        position: absolute;
+        right: -100px;
+        top: 100px;
+    }
+}

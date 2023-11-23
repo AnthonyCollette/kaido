@@ -1,6 +1,7 @@
 {
     "Nav": {
         "home": "Accueil",
+        "about": "A propos",
         "contact": "Contact"
     },
     "Hero": {
@@ -21,6 +22,16 @@
         "third_item": {
             "title": "Cheveux forts et soyeux",
             "desc": "Pour des cheveux magnifiquement nourris, l'huile d'argan est un trésor inestimable. Enrichie en acides gras, en vitamines et en antioxydants, cette huile revitalise les cheveux secs et abîmés, les fortifiant de la racine aux pointes. Elle apporte également une brillance naturelle et dompte les frisottis, laissant vos cheveux soyeux et maniables. Que ce soit en traitement capillaire intensif ou en sérum quotidien, l'huile d'argan révèle la beauté naturelle de vos cheveux"
+        }
+    },
+    "About-Page": {
+        "Hero": {
+            "title": "Qui sommes-nous ?",
+            "desc": "Explorez notre entreprise dédiée à l'huile d'argan, un trésor authentique du Maroc. En tant que spécialistes de cette richesse marocaine, nous sommes fiers de présenter nos huiles d'argan, à la fois cosmétique et alimentaire. Notre histoire est profondément ancrée dans les paysages marocains, là où l'arganier prospère sous le soleil intense. Nous privilégions une récolte méticuleuse, perpétuant une tradition séculaire. Chaque goutte d'huile que nous offrons témoigne de notre engagement envers la qualité, la durabilité et le bien-être des communautés locales. Plongez dans une expérience authentique qui marie harmonieusement la beauté et la gourmandise avec nos produits."
+        },
+        "Certifications": {
+            "title": "Certifications",
+            "desc": "Certifiée de la plus haute qualité, notre huile d'argan cosmétique est le résultat d'un processus rigoureux, garantissant un produit pur et authentique, respectueux des normes internationales les plus exigeantes. Découvrez l'essence de l'argan à travers notre huile, un trésor précieux qui transcende le temps et l'espace. La certification par Ecocert atteste de notre engagement envers des pratiques agricoles durables et responsables, garantissant une huile d'argan d'une qualité exceptionnelle tout en préservant l'équilibre de notre précieux écosystème."
         }
     },
     "Contact-Section": {

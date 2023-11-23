@@ -7,6 +7,7 @@ body {
 h1 {
     font-family: $secondary-bold;
     line-height: 1;
+    @include fontSize(36);
     .hero & {
         @include fontSize(68);
         margin-bottom: 50px;
