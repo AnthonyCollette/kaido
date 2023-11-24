@@ -1,26 +1,31 @@
 {
   "files": {
-    "main.css": "/kaido/static/css/main.d2f15d5e.css",
-    "main.js": "/kaido/static/js/main.cdb0e15c.js",
+    "main.css": "/kaido/static/css/main.56d576bf.css",
+    "main.js": "/kaido/static/js/main.05e5f11b.js",
     "static/js/787.d0c7d9b2.chunk.js": "/kaido/static/js/787.d0c7d9b2.chunk.js",
     "static/media/young.jpg": "/kaido/static/media/young.7e7a9f3289a71f8d1e1c.jpg",
     "static/media/hairs.jpg": "/kaido/static/media/hairs.b9f69315c258aa9b38df.jpg",
     "static/media/hydratation.jpg": "/kaido/static/media/hydratation.71841eeb300aa84dfa55.jpg",
     "static/media/Mysterious bottle of argan oil.png": "/kaido/static/media/Mysterious bottle of argan oil.4a07ca910c48cb392feb.png",
     "static/media/banner.jpg": "/kaido/static/media/banner.b0fbdafb86bbe37059dd.jpg",
+    "static/media/argan.webp": "/kaido/static/media/argan.e16502a7cefbb5b47fe9.webp",
+    "static/media/hafida-abousalih-KYKjCEypbgc-unsplash.webp": "/kaido/static/media/hafida-abousalih-KYKjCEypbgc-unsplash.dbd263e4a22cd70a71e2.webp",
     "static/media/Montserrat-Black.ttf": "/kaido/static/media/Montserrat-Black.beacc26b4bbaaf608567.ttf",
     "static/media/Montserrat-Bold.ttf": "/kaido/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
     "static/media/Montserrat-Regular.ttf": "/kaido/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
     "static/media/Lato-Regular.ttf": "/kaido/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
     "static/media/Lato-Black.ttf": "/kaido/static/media/Lato-Black.57dee8aface5572f9101.ttf",
-    "static/media/logo.png": "/kaido/static/media/logo.a9b3265acfa7cb52d0a9.png",
+    "static/media/USDA_organic_seal.png": "/kaido/static/media/USDA_organic_seal.ff2786cc7cde364511ab.png",
+    "static/media/AB_eurofeuille.png": "/kaido/static/media/AB_eurofeuille.d96a8512be9b9da03d95.png",
+    "static/media/Logo_ecocert.png": "/kaido/static/media/Logo_ecocert.f90941480cac05817493.png",
+    "static/media/logo.png": "/kaido/static/media/logo.55d5e2a5c189c990883b.png",
     "index.html": "/kaido/index.html",
-    "main.d2f15d5e.css.map": "/kaido/static/css/main.d2f15d5e.css.map",
-    "main.cdb0e15c.js.map": "/kaido/static/js/main.cdb0e15c.js.map",
+    "main.56d576bf.css.map": "/kaido/static/css/main.56d576bf.css.map",
+    "main.05e5f11b.js.map": "/kaido/static/js/main.05e5f11b.js.map",
     "787.d0c7d9b2.chunk.js.map": "/kaido/static/js/787.d0c7d9b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2f15d5e.css",
-    "static/js/main.cdb0e15c.js"
+    "static/css/main.56d576bf.css",
+    "static/js/main.05e5f11b.js"
   ]
 }
