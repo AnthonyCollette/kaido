@@ -21,14 +21,16 @@ const Certifications = () => {
                         <img src={EcocertLogo} alt="Logo" />
                     </div>
                     <div className={containerRefIsVisible ? 'image-wrapper slideInBottom' : 'image-wrapper'}>
-                        <img src={Onssa} alt="Logo" />
+                        <img src={Eurofeuille} alt="Logo" />
                     </div>
                     <div className={containerRefIsVisible ? 'image-wrapper slideInBottom' : 'image-wrapper'}>
                         <img src={USDA} alt="Logo" />
                     </div>
                     <div className={containerRefIsVisible ? 'image-wrapper slideInBottom' : 'image-wrapper'}>
-                        <img src={Eurofeuille} alt="Logo" />
+                        <img src={Onssa} alt="Logo" />
                     </div>
+
+
                 </div>
             </div>
         </div>
