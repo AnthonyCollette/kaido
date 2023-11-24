@@ -1,5 +1,8 @@
-.about {
+.about,
+.about-infos {
     color: $color-002;
+    margin-top: 50px;
+
     &--content {
         width: 60%;
         position: absolute;
@@ -8,25 +11,68 @@
         top: 30%;
         z-index: 2;
         opacity: 0;
+
         &.slideInLeft {
             animation-delay: 0.5s;
         }
     }
+
     .container {
         position: relative;
+
         h1 {
             margin-bottom: 30px;
         }
+
         .img-wrapper {
             width: 50%;
             position: relative;
-            margin:  0 0 0 auto;
+            margin: 0 0 0 auto;
             opacity: 0;
+            height: 70vh;
+
             img {
                 width: 100%;
                 height: 100%;
                 object-fit: cover;
             }
+        }
+    }
+}
+
+.about-infos {
+    background-color: $color-001;
+    &--content {
+        position: relative;
+        background-color: transparent;
+        margin: 0 0 0 auto;
+        max-width: 50%;
+    }
+    .container {
+        display: flex;
+        align-items: center;
+        gap: 50px;
+
+        h1 {
+            margin-bottom: 30px;
+        }
+
+        .img-wrapper {
+            width: 50%;
+            opacity: 0;
+            height: 500px;
+
+            img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        .slideInRight {
+            animation-delay: 0.8s;
         }
     }
 }
