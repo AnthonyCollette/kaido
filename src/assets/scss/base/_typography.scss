@@ -41,6 +41,10 @@ h5 {
     @include fontSize(21);
 }
 
+p {
+    text-align: justify;
+}
+
 .active {
     color: $color-003;
 }
