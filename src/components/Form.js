@@ -1,23 +1,17 @@
-import React from 'react';
-
 const Form = () => {
     return (
         <form>
             <div className='form-group fg-input'>
-                <label for='lastname'>Nom</label>
-                <input type='text' name='lastname'></input>
+                <input type='text' name='lastname' placeholder="Nom"></input>
             </div>
             <div className='form-group fg-input'>
-                <label for='firstname'>Prénom</label>
-                <input type='text' name='firstname'></input>
+                <input type='text' name='firstname' placeholder="Prénom"></input>
             </div>
             <div className='form-group fg-input'>
-                <label for='email'>E-mail</label>
-                <input type='text' name='email'></input>
+                <input type='text' name='email' placeholder="E-mail"></input>
             </div>
             <div className='form-group fg-textarea'>
-                <label for='message'>Message</label>
-                <textarea type='text' name='message'></textarea>
+                <textarea type='text' name='message' placeholder="Message"></textarea>
             </div>
             <button className='btn btn--primary'>
                 Demander mon devis

@@ -2,7 +2,6 @@ nav {
     padding: 20px 0;
     box-shadow: 0 5px 5px rgba($color: $color-001, $alpha: 0.2);
     z-index: 999;
-    // position: fixed;
     width: 100%;
     background-color: $color-002;
 
@@ -34,7 +33,7 @@ nav {
         }
 
         a {
-            @include fontSize(21);
+            @include fontSize(18);
             color: $color-001;
             position: relative;
             transition: all 0.2s ease-in-out;
@@ -45,7 +44,7 @@ nav {
                 height: 10px;
                 border: 2px solid $color-001;
                 position: absolute;
-                top: 8px;
+                top: 5px;
                 left: -25px;
                 transition: all 0.2s ease-in-out;
             }

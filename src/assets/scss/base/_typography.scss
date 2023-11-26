@@ -56,3 +56,7 @@ p {
 footer {
     @include fontSize(16);
 }
+
+.text--brown {
+    color: $color-004;
+}

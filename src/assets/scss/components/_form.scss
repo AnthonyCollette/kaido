@@ -1,6 +1,4 @@
 form {
-    background-color: $color-006;
-    border: 2px solid $color-006;
     padding: 50px;
     width: 500px;
     .form-group {
@@ -13,18 +11,31 @@ form {
     label {
         color: $color-006;
         position: absolute;
+        top: 10px;
         left: 5px;
-        background-color: $color-002;
         padding: 0 10px;
     }
     input {
-        border: 2px solid $color-006;
+        border: none;
+        border-bottom: 2px solid $color-004;
         height: 50px;
+        padding: 0 15px;
+        font-family: $primary-regular;
+        @include fontSize(18);
+        &:active, &:focus, &:focus-visible {
+            outline: none;
+        }
     }
     textarea {
-        border: 2px solid $color-006;
+        border: 2px solid $color-004;
         height: 300px;
         resize: none;
+        padding: 15px;
+        @include fontSize(18);
+        font-family: $primary-regular;
+        &:active, &:focus, &:focus-visible {
+            outline: none;
+        }
     }
     .btn {
         width: 100%;
