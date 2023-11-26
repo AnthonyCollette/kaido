@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kaido/static/css/main.018391d3.css",
-    "main.js": "/kaido/static/js/main.b5eb0109.js",
+    "main.css": "/kaido/static/css/main.d19a6322.css",
+    "main.js": "/kaido/static/js/main.dc336dbe.js",
     "static/js/787.d0c7d9b2.chunk.js": "/kaido/static/js/787.d0c7d9b2.chunk.js",
     "static/media/young.jpg": "/kaido/static/media/young.7e7a9f3289a71f8d1e1c.jpg",
     "static/media/hairs.jpg": "/kaido/static/media/hairs.b9f69315c258aa9b38df.jpg",
@@ -16,16 +16,18 @@
     "static/media/Lato-Regular.ttf": "/kaido/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
     "static/media/Lato-Black.ttf": "/kaido/static/media/Lato-Black.57dee8aface5572f9101.ttf",
     "static/media/USDA_organic_seal.png": "/kaido/static/media/USDA_organic_seal.ff2786cc7cde364511ab.png",
+    "static/media/logo-incomplet.png": "/kaido/static/media/logo-incomplet.942d62850a8111b831d5.png",
+    "static/media/picto-logo.png": "/kaido/static/media/picto-logo.d5c25d4530cf6efe0705.png",
     "static/media/AB_eurofeuille.png": "/kaido/static/media/AB_eurofeuille.d96a8512be9b9da03d95.png",
     "static/media/Logo_ecocert.png": "/kaido/static/media/Logo_ecocert.f90941480cac05817493.png",
     "static/media/logo.png": "/kaido/static/media/logo.55d5e2a5c189c990883b.png",
     "index.html": "/kaido/index.html",
-    "main.018391d3.css.map": "/kaido/static/css/main.018391d3.css.map",
-    "main.b5eb0109.js.map": "/kaido/static/js/main.b5eb0109.js.map",
+    "main.d19a6322.css.map": "/kaido/static/css/main.d19a6322.css.map",
+    "main.dc336dbe.js.map": "/kaido/static/js/main.dc336dbe.js.map",
     "787.d0c7d9b2.chunk.js.map": "/kaido/static/js/787.d0c7d9b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.018391d3.css",
-    "static/js/main.b5eb0109.js"
+    "static/css/main.d19a6322.css",
+    "static/js/main.dc336dbe.js"
   ]
 }
