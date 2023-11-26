@@ -31,6 +31,11 @@ const Nav = () => {
                             {t('Nav.contact')}
                         </NavLink>
                     </li>
+                    <li>
+                        <NavLink to="/loading" className={({ isActive }) => isActive ? 'active' : ''}>
+                            Loading
+                        </NavLink>
+                    </li>
                     <LanguageSelector />
                 </ul>
             </div>

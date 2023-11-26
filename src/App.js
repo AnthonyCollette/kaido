@@ -4,6 +4,7 @@ import Contact from './pages/Contact';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Error404 from './pages/Error404';
 import AboutPage from './pages/AboutPage';
+import Loading from './components/Loading';
 
 function App(){
   
@@ -14,6 +15,7 @@ function App(){
           <Route path="/" element={<Homepage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/loading" element={<Loading />} />
           <Route path="*" element={<Error404 />} />
         </Routes>
       </BrowserRouter>

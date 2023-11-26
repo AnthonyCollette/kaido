@@ -2,6 +2,7 @@ import React, { useState, useEffect, Suspense } from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Loading from './components/Loading';
 
 
 export function useIsVisible(ref) {
@@ -34,7 +35,7 @@ export function useIsVisible(ref) {
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Suspense fallback={<></>}>
+    <Suspense fallback={<Loading />}>
       <App />
     </Suspense>
   </React.StrictMode>
