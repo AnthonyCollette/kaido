@@ -50,10 +50,10 @@ nav {
             }
 
             &.active, &:hover {
-                color: $color-003;
+                color: $color-008;
                 &::before {
-                    border-color: $color-003;
-                    background-color: $color-003;
+                    border-color: $color-008;
+                    background-color: $color-008;
                     transform: rotate(45deg);
                 }
             }

@@ -17,7 +17,7 @@ form {
     }
     input {
         border: none;
-        border-bottom: 2px solid $color-004;
+        border-bottom: 1px solid $color-004;
         height: 50px;
         padding: 0 15px;
         font-family: $primary-regular;
@@ -27,7 +27,7 @@ form {
         }
     }
     textarea {
-        border: 2px solid $color-004;
+        border: 1px solid $color-004;
         height: 300px;
         resize: none;
         padding: 15px;
