@@ -3,13 +3,23 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
 export function useIsVisible(ref) {
   const [isIntersecting, setIntersecting] = useState(false);
 
+
   useEffect(() => {
-    const observer = new IntersectionObserver(([entry]) =>
-      setIntersecting(entry.isIntersecting)
+    const options = {
+      root: null,
+      threshold: 0.75,
+    }
+    const observer = new IntersectionObserver(([entry]) => {
+      if (!isIntersecting && entry.isIntersecting) {
+        setIntersecting(entry.isIntersecting)
+      }
+    }, options
     );
+
 
     observer.observe(ref.current);
     return () => {
