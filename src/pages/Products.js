@@ -10,11 +10,15 @@ const Products = () => {
 
     return (
         <div className='products-page'>
+
             <Nav />
-            <h1 className='text--center slideInLeft'>{t('Products.Main_Title')}</h1>
-                {bienfaits.map((bienfait, index) => <BannerBlock title={t(`Products.Product_${bienfait}.title`)} desc={t(`Products.Product_${bienfait}.desc`)} number={bienfait} key={index} />)}
+            <div className='container'>
+                <h1 className='text--center slideInLeft'>{t('Products.Main_Title')}</h1>
+                <p className='main-desc slideInLeft'>{t('Products.Main_Desc')}</p>
+            </div>
+            {bienfaits.map((bienfait, index) => <BannerBlock title={t(`Products.Product_${bienfait}.title`)} desc={t(`Products.Product_${bienfait}.desc`)} number={bienfait} key={index} />)}
             <Footer />
-            
+
         </div>
     );
 };

@@ -50,7 +50,7 @@ const BannerBlock = ({ number, title, desc }) => {
 	l-72-72.2l72.2-72l28.5,28.6l-43.6,43.5l43.5,43.6L102.1,310.8z M117.3,238.7l28.6-28.5l28.5,28.6l-28.6,28.5L117.3,238.7z"/>
             </svg>
             <div className={textIsVisible ? 'container display-content' : 'container'} ref={contentRef}>
-                <div className={contentRefIsVisible ? 'image-wrapper slideInTop' : 'image-wrapper'} style={{animationDelay: `${number / 2}s`}} onClick={handleClick}>
+                <div className={contentRefIsVisible ? 'image-wrapper slideInTop' : 'image-wrapper'} style={{animationDelay: `${number / 1.2}s`}} onClick={handleClick}>
                     <img src={getImage()} alt='image' />
                     <div className='overlay'>
                         <h2 className={contentRefIsVisible ? 'slideInTop' : ''}>
