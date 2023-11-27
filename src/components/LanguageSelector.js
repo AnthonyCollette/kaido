@@ -14,7 +14,6 @@ const LanguageSelector = () => {
 
     useEffect(() => {
         chooseLanguage()
-        console.log(Fr)
     }, [selected])
 
     return (

@@ -25,6 +25,21 @@
             "desc": "Pour des cheveux magnifiquement nourris, l'huile d'argan est un trésor inestimable. Enrichie en acides gras, en vitamines et en antioxydants, cette huile revitalise les cheveux secs et abîmés, les fortifiant de la racine aux pointes. Elle apporte également une brillance naturelle et dompte les frisottis, laissant vos cheveux soyeux et maniables. Que ce soit en traitement capillaire intensif ou en sérum quotidien, l'huile d'argan révèle la beauté naturelle de vos cheveux"
         }
     },
+    "Products": {
+        "Main_Title": "Bienfaits",
+        "Product_1": {
+            "title": "Hydratation intense pour la peau",
+            "desc": "L'huile d'argan est une alliée inestimable pour une hydratation de la peau. Grâce à sa richesse en acides gras essentiels, en particulier l'acide linoléique et l'acide oléique, cette huile précieuse pénètre en profondeur pour nourrir et hydrater la peau. Elle restaure la barrière cutanée naturelle, laissant la peau douce, souple et revitalisée. Que vous l'appliquiez sur votre visage ou votre corps, l'huile d'argan offre une hydratation intense sans laisser de sensation grasse, révélant une peau rayonnante et bien nourrie. Les bienfaits réparateurs de l'huile d'argan sont remarquables pour apaiser et traiter les peaux endommagées. Que ce soit par les agressions extérieures, le soleil, ou les irritations cutanées, ses propriétés cicatrisantes favorisent la régénération des tissus, réduisant ainsi les rougeurs et les inflammations."
+        },
+        "Product_2": {
+            "title": "Régénération cellulaire anti-âge",
+            "desc": "Reconnue pour ses puissantes propriétés antioxydantes, l'huile d'argan aide à combattre les signes du vieillissement cutané. En stimulant la régénération cellulaire, elle contribue à atténuer l'apparence des rides et des ridules, procurant ainsi un effet anti-âge naturel. La peau paraît plus ferme, plus tonique, et arbore une apparence plus jeune. Utilisée régulièrement, l'huile d'argan contribue à promouvoir un éclat naturel de la peau. Elle améliore la texture de la peau, lissant les imperfections et procurant un teint plus uniforme. Son action revitalisante donne à la peau une luminosité naturelle, évoquant une vitalité éclatante."
+        },
+        "Product_3": {
+            "title": "Cheveux forts et soyeux",
+            "desc": "Au-delà des bienfaits cutanés, l'huile d'argan est un joyau pour les cheveux. Enrichie en acides gras, en vitamines et en antioxydants, cette huile revitalise les cheveux secs et abîmés, les fortifiant de la racine aux pointes. Elle nourrit en profondeur, renforce la fibre capillaire et apporte une brillance naturelle. Son utilisation régulière aide à réduire les frisottis, à revitaliser les cheveux secs, et à maintenir une chevelure saine et éclatante."
+        }
+    },
     "About-Page": {
         "Hero": {
             "title": "Qui sommes-nous ?",

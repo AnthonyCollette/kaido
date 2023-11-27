@@ -8,11 +8,13 @@ h1 {
     font-family: $secondary-bold;
     line-height: 1;
     @include fontSize(36);
+
     .hero & {
         @include fontSize(68);
         margin-bottom: 50px;
         max-width: 70%;
     }
+
     .error-404 & {
         @include fontSize(280);
         margin: 200px 0 20px;
@@ -57,6 +59,11 @@ footer {
     @include fontSize(16);
 }
 
-.text--brown {
-    color: $color-004;
+.text {
+    &--center {
+        text-align: center;
+    }
+    &--brown {
+        color: $color-004;
+    }
 }
