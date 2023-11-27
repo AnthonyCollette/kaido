@@ -22,6 +22,11 @@ const Nav = () => {
                         </NavLink>
                     </li>
                     <li>
+                        <NavLink to="/products" className={({ isActive }) => isActive ? 'active' : ''}>
+                            {t('Nav.products')}
+                        </NavLink>
+                    </li>
+                    <li>
                         <NavLink to="/about" className={({ isActive }) => isActive ? 'active' : ''}>
                             {t('Nav.about')}
                         </NavLink>

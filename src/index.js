@@ -12,7 +12,7 @@ export function useIsVisible(ref) {
   useEffect(() => {
     const options = {
       root: null,
-      threshold: 0.75,
+      threshold: 0.5,
     }
     const observer = new IntersectionObserver(([entry]) => {
       if (!isIntersecting && entry.isIntersecting) {

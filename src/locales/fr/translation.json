@@ -1,6 +1,7 @@
 {
     "Nav": {
         "home": "Accueil",
+        "products": "Produits",
         "about": "A propos",
         "contact": "Contact"
     },

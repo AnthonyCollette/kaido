@@ -1,0 +1,16 @@
+import React from 'react';
+import Nav from '../components/Nav';
+import Footer from '../components/Footer';
+
+const Products = () => {
+    return (
+        <div className='products-page'>
+            <Nav />
+
+            <Footer />
+            
+        </div>
+    );
+};
+
+export default Products;

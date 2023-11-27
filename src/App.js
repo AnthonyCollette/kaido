@@ -5,6 +5,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Error404 from './pages/Error404';
 import AboutPage from './pages/AboutPage';
 import Loading from './components/Loading';
+import Products from './pages/Products';
 
 function App(){
   
@@ -13,6 +14,7 @@ function App(){
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Homepage />} />
+          <Route path="/products" element={<Products />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/loading" element={<Loading />} />
