@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import { useTranslation } from 'react-i18next'
+import { Trans, useTranslation } from 'react-i18next'
 import banner from '../assets/images/banner.jpg';
 import { useIsVisible } from '..';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
@@ -11,7 +11,7 @@ const Hero = () => {
     const imgRef = useRef()
     const contentRefIsVisible = useIsVisible(contentRef)
     const imgRefIsVisible = useIsVisible(imgRef)
-    const {t} = useTranslation()
+    const { t } = useTranslation()
 
     return (
         <section className='hero'>
@@ -40,7 +40,11 @@ const Hero = () => {
                         <div className='content'>
                             <h1>{t("Hero.title")}</h1>
                             <p>
-                                {t("Hero.desc")}
+                                <Trans>
+                                Bienvenue sur notre site, votre fournisseur d'huile d'argan authentique en provenance du Maroc. Plongez dans l'excellence de notre huile, où la tradition marocaine rencontre la qualité exceptionnelle. Découvrez l'huile d'argan du Maroc, symbole de beauté et de bien-être, disponible chez nous pour vous offrir une expérience sensorielle unique. <strong>En tant que fournisseur d'huile d'argan, nous vous offrons une source authentique de bien-être, directement du Maroc à votre porte, le tout à un prix très attractif.</strong> Convient aussi bien aux professionnels qu'aux particuliers, offrant une qualité exceptionnelle à tous.
+                                    {/* {t("Hero.desc")} */}
+                                </Trans>
+
                             </p>
                             <AnchorLink href='#presentation' className='btn btn--primary'>
                                 {t("Hero.cta")}

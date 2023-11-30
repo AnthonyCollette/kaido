@@ -6,23 +6,37 @@
         "contact": "Contact"
     },
     "Hero": {
-        "title": "Discover the magic of Morocco",
-        "desc": "At Kaido, we believe in the power of nature to reveal the authentic beauty that lies within each and every one of us. Our commitment to quality and authenticity is demonstrated by our argan oil, a treasure from Morocco, renowned for its exceptional benefits for skin and hair. Every drop of our pure argan oil is the fruit of traditional know-how and a profound respect for nature. We're proud to offer you a product that goes beyond aesthetics, bringing a sensory and regenerative experience with every use. Explore our collection and discover how argan oil can transform your beauty routine, allowing you to glow naturally, with confidence and radiance.",
+        "title": "Your supplier of authentic Moroccan argan oil",
+        "desc": "Welcome to our website, your supplier of authentic argan oil from Morocco. Immerse yourself in the excellence of our oil, where Moroccan tradition meets exceptional quality. Discover Moroccan argan oil, a symbol of beauty and well-being, available from us to offer you a unique sensory experience. As a supplier of argan oil, we offer you an authentic source of well-being, direct from Morocco to your door, all at a very attractive price. Suitable for both professional and private customers, offering exceptional quality to all.",
         "cta": "Start your journey"
     },
     "Presentation": {
         "title": "Argan elixir: discover our exceptional oil",
         "first_item": {
             "title": "Intense hydration for the skin",
-            "desc": "Argan oil is an oasis of hydration for thirsty skin. Thanks to its richness in essential fatty acids, particularly linoleic and oleic acid, this precious oil penetrates deeply to nourish and moisturize the skin. It restores the skin's natural barrier, leaving it soft, supple and revitalized. Whether you apply it to your face or body, argan oil offers intense hydration without leaving a greasy feel, revealing radiant, well-nourished skin. Argan oil is an oasis of hydration for thirsty skin. Thanks to its richness in essential fatty acids, particularly linoleic and oleic acid, this precious oil penetrates deeply to nourish and moisturize the skin. It restores the skin's natural barrier, leaving it soft, supple and revitalized. Whether you apply it to your face or body, argan oil offers intense hydration without leaving a greasy feel, revealing radiant, well-nourished skin. Argan oil is an oasis of hydration for thirsty skin. Thanks to its richness in essential fatty acids, particularly linoleic and oleic acid, this precious oil penetrates deeply to nourish and moisturize the skin. It restores the skin's natural barrier, leaving it soft, supple and revitalized. Whether you apply it to your face or body, argan oil offers intense hydration without leaving a greasy feel, revealing radiant, well-nourished skin."
+            "first_title": "Deep hydration",
+            "first_desc": "Argan oil, rich in essential fatty acids, penetrates deeply for soft, revitalized skin.",
+            "second_title": "Skin repair",
+            "second_desc": "Healing, it soothes and treats damaged skin, reducing redness and inflammation.",
+            "third_title": "Non-greasy, radiant effect",
+            "third_desc": "Applied to the face or body, it intensely moisturizes without feeling greasy, revealing radiant, nourished skin."
         },
         "second_item": {
             "title": "Anti-aging cell regeneration",
-            "desc": "Argan oil is a powerful ally in the fight against the signs of skin aging. Thanks to its composition rich in vitamin E, a natural antioxidant, it promotes cell regeneration and protects the skin from the free radicals responsible for premature aging. By incorporating argan oil into your skincare routine, you can deeply nourish your skin, reducing the appearance of fine lines and wrinkles, and preserving the youth and vitality of your complexion."
+            "first_title": "Natural anti-aging",
+            "first_desc": "Argan oil, rich in antioxidants, fights wrinkles and stimulates cell regeneration.",
+            "second_title": "Natural radiance",
+            "second_desc": "Used regularly, it smoothes the skin, improves texture and gives an even complexion.",
+            "third_title": "Radiant vitality",
+            "third_desc": "Its powerful revitalizing action gives skin a natural luminosity and radiant vitality."
         },
         "third_item": {
             "title": "Strong, silky hair",
-            "desc": "For beautifully nourished hair, argan oil is a priceless treasure. Enriched with fatty acids, vitamins and antioxidants, this oil revitalizes dry, damaged hair, strengthening it from root to tip. It also adds natural shine and tames frizz, leaving your hair silky and manageable. Whether used as an intensive hair treatment or a daily serum, argan oil reveals your hair's natural beauty."
+            "first_title": "Hair revitalization",
+            "second_title": "Nourishing and brilliant",
+            "second_desc": "Deeply nourishes, strengthens hair fiber and adds natural shine.",
+            "third_title": "Managing hair problems",
+            "third_desc": "Used regularly, it reduces frizz and revitalizes dry hair, leaving it healthy and radiant."
         }
     },
     "Products": {

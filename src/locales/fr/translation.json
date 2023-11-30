@@ -6,23 +6,37 @@
         "contact": "Contact"
     },
     "Hero": {
-        "title": "Découvrez la magie du Maroc",
-        "desc": "Chez Kaido, nous croyons en la puissance de la nature pour révéler la beauté authentique qui réside en chacun de nous. Notre engagement envers la qualité et l'authenticité se manifeste à travers notre huile d'argan, un trésor venu du Maroc, réputé pour ses bienfaits exceptionnels pour la peau et les cheveux. Chaque goutte de notre huile d'argan pure est le fruit d'un savoir-faire traditionnel et d'un profond respect pour la nature. Nous sommes fiers de vous offrir un produit qui va au-delà de l'esthétique, apportant une expérience sensorielle et régénératrice à chaque utilisation. Explorez notre collection et découvrez comment l'huile d'argan peut transformer votre routine beauté, vous permettant de rayonner naturellement, avec confiance et éclat.",
+        "title": "Votre fournisseur d'huile d'argan authentique du Maroc",
+        "desc": "Bienvenue sur notre site, votre fournisseur d'huile d'argan authentique en provenance du Maroc. Plongez dans l'excellence de notre huile, où la tradition marocaine rencontre la qualité exceptionnelle. Découvrez l'huile d'argan du Maroc, symbole de beauté et de bien-être, disponible chez nous pour vous offrir une expérience sensorielle unique. <1>En tant que fournisseur d'huile d'argan, nous vous offrons une source authentique de bien-être, directement du Maroc à votre porte, le tout à un prix très attractif.</1> Convient aussi bien aux professionnels qu'aux particuliers, offrant une qualité exceptionnelle à tous.",
         "cta": "Commencez votre voyage"
     },
     "Presentation": {
         "title": "L'élixir d'Argan : découvrez notre huile exceptionnelle",
         "first_item": {
             "title": "Hydratation intense pour la peau",
-            "desc": "L'huile d'argan est une oasis d'hydratation pour la peau assoiffée. Grâce à sa richesse en acides gras essentiels, en particulier l'acide linoléique et l'acide oléique, cette huile précieuse pénètre en profondeur pour nourrir et hydrater la peau. Elle restaure la barrière cutanée naturelle, laissant la peau douce, souple et revitalisée. Que vous l'appliquiez sur votre visage ou votre corps, l'huile d'argan offre une hydratation intense sans laisser de sensation grasse, révélant une peau rayonnante et bien nourrie. L'huile d'argan est une oasis d'hydratation pour la peau assoiffée. Grâce à sa richesse en acides gras essentiels, en particulier l'acide linoléique et l'acide oléique, cette huile précieuse pénètre en profondeur pour nourrir et hydrater la peau. Elle restaure la barrière cutanée naturelle, laissant la peau douce, souple et revitalisée. Que vous l'appliquiez sur votre visage ou votre corps, l'huile d'argan offre une hydratation intense sans laisser de sensation grasse, révélant une peau rayonnante et bien nourrie. L'huile d'argan est une oasis d'hydratation pour la peau assoiffée. Grâce à sa richesse en acides gras essentiels, en particulier l'acide linoléique et l'acide oléique, cette huile précieuse pénètre en profondeur pour nourrir et hydrater la peau. Elle restaure la barrière cutanée naturelle, laissant la peau douce, souple et revitalisée. Que vous l'appliquiez sur votre visage ou votre corps, l'huile d'argan offre une hydratation intense sans laisser de sensation grasse, révélant une peau rayonnante et bien nourrie."
+            "first_title": "Hydratation profonde",
+            "first_desc": "L'huile d'argan, riche en acides gras essentiels, pénètre profondément pour une peau douce et revitalisée.",
+            "second_title": "Réparation cutanée",
+            "second_desc": "Cicatrisante, elle apaise et traite les peaux endommagées, réduisant rougeurs et inflammations.",
+            "third_title": "Non grasse, effet rayonnant",
+            "third_desc": "Appliquée sur le visage ou le corps, elle hydrate intensément sans sensation grasse, révélant une peau rayonnante et nourrie."
         },
         "second_item": {
             "title": "Régénération cellulaire anti-âge",
-            "desc": "L'huile d'argan est un puissant allié dans la lutte contre les signes du vieillissement cutané. Grâce à sa composition riche en vitamine E, un antioxydant naturel, elle favorise la régénération cellulaire et protège la peau des radicaux libres responsables du vieillissement prématuré. En incorporant l'huile d'argan dans votre routine de soins, vous nourrissez votre peau en profondeur, atténuant les rides et les ridules, et préservant la jeunesse et la vitalité de votre teint."
+            "first_title": "Anti-âge naturel",
+            "first_desc": "L'huile d'argan, riche en antioxydants, combat les rides et stimule la régénération cellulaire.",
+            "second_title": "Éclat naturel",
+            "second_desc": "Utilisée régulièrement, elle lisse la peau, améliore la texture, et offre un teint uniforme.",
+            "third_title": "Vitalité éclatante",
+            "third_desc": "Sa puissante action revitalisante procure à la peau une luminosité naturelle et une vitalité éclatante."
         },
         "third_item": {
             "title": "Cheveux forts et soyeux",
-            "desc": "Pour des cheveux magnifiquement nourris, l'huile d'argan est un trésor inestimable. Enrichie en acides gras, en vitamines et en antioxydants, cette huile revitalise les cheveux secs et abîmés, les fortifiant de la racine aux pointes. Elle apporte également une brillance naturelle et dompte les frisottis, laissant vos cheveux soyeux et maniables. Que ce soit en traitement capillaire intensif ou en sérum quotidien, l'huile d'argan révèle la beauté naturelle de vos cheveux"
+            "first_title": "Revitalisation capillaire",
+            "second_title": "Nourrissante et brillante",
+            "second_desc": "Elle nourrit profondément, renforce la fibre capillaire, et apporte une brillance naturelle.",
+            "third_title": "Gestion des problèmes capillaires",
+            "third_desc": "Utilisée régulièrement, elle réduit les frisottis, revitalise les cheveux secs, pour une chevelure saine et éclatante."
         }
     },
     "Products": {

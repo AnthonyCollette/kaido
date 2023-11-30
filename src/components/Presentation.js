@@ -22,7 +22,12 @@ const Presentation = () => {
                             </div>
                             <img src={hydratationImg} alt='image' />
                         </div>
-                        <p>{t('Presentation.first_item.desc')}</p>
+                        <h4>{t('Presentation.first_item.first_title')}</h4>
+                        <p>{t('Presentation.first_item.first_desc')}</p>
+                        <h4>{t('Presentation.first_item.second_title')}</h4>
+                        <p>{t('Presentation.first_item.second_desc')}</p>
+                        <h4>{t('Presentation.first_item.third_title')}</h4>
+                        <p>{t('Presentation.first_item.third_desc')}</p>
                     </div>
                     <div className={itemRefIsVisible ? 'card slideInBottom' : 'card'}>
                         <div className='img-wrapper'>
@@ -31,7 +36,12 @@ const Presentation = () => {
                             </div>
                             <img src={youngImg} alt='image' />
                         </div>
-                        <p>{t('Presentation.second_item.desc')}</p>
+                        <h4>{t('Presentation.second_item.first_title')}</h4>
+                        <p>{t('Presentation.second_item.first_desc')}</p>
+                        <h4>{t('Presentation.second_item.second_title')}</h4>
+                        <p>{t('Presentation.second_item.second_desc')}</p>
+                        <h4>{t('Presentation.second_item.third_title')}</h4>
+                        <p>{t('Presentation.second_item.third_desc')}</p>
                     </div>
                     <div className={itemRefIsVisible ? 'card slideInRight' : 'card'}>
                         <div className='img-wrapper'>
@@ -40,7 +50,12 @@ const Presentation = () => {
                             </div>
                             <img src={hairsImg} alt='image' />
                         </div>
-                        <p>{t('Presentation.third_item.desc')}</p>
+                        <h4>{t('Presentation.third_item.first_title')}</h4>
+                        <p>{t('Presentation.third_item.first_desc')}</p>
+                        <h4>{t('Presentation.third_item.second_title')}</h4>
+                        <p>{t('Presentation.third_item.second_desc')}</p>
+                        <h4>{t('Presentation.third_item.third_title')}</h4>
+                        <p>{t('Presentation.third_item.third_desc')}</p>
                     </div>
                 </div>
             </div>

@@ -10,9 +10,9 @@ h1 {
     @include fontSize(36);
 
     .hero & {
-        @include fontSize(68);
+        @include fontSize(48);
         margin-bottom: 50px;
-        max-width: 70%;
+        max-width: 90%;
     }
 
     .error-404 & {
@@ -36,6 +36,10 @@ h3 {
 h4 {
     font-family: $secondary-bold;
     text-align: center;
+    .card & {
+        font-family: $primary-bold;
+        text-decoration: underline;
+    }
 }
 
 h5 {

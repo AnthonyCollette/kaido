@@ -25,7 +25,7 @@
             h3 {
                 opacity: 0;
             }
-            p {
+            p, h4 {
                 opacity: 1;
             }
             .img-wrapper .overlay {
@@ -37,11 +37,14 @@
             transition: all 0.4s ease-in-out;
             max-width: 80%;
         }
-        p {
+        p, h4 {
             opacity: 0;
             transition: all 0.4s ease-in-out;
             color: $color-002;
             text-align: justify;
+        }
+        p {
+            margin-bottom: 20px;
         }
         .img-wrapper {
             position: absolute;
