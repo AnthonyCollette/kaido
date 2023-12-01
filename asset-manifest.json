@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kaido/static/css/main.fa02b47b.css",
-    "main.js": "/kaido/static/js/main.c5a1c27a.js",
+    "main.css": "/kaido/static/css/main.82c2cbe3.css",
+    "main.js": "/kaido/static/js/main.f93cb3a2.js",
     "static/js/787.d0c7d9b2.chunk.js": "/kaido/static/js/787.d0c7d9b2.chunk.js",
     "static/media/young.jpg": "/kaido/static/media/young.7e7a9f3289a71f8d1e1c.jpg",
     "static/media/hairs.jpg": "/kaido/static/media/hairs.b9f69315c258aa9b38df.jpg",
@@ -23,12 +23,12 @@
     "static/media/Logo_ecocert.png": "/kaido/static/media/Logo_ecocert.f90941480cac05817493.png",
     "static/media/logo.png": "/kaido/static/media/logo.55d5e2a5c189c990883b.png",
     "index.html": "/kaido/index.html",
-    "main.fa02b47b.css.map": "/kaido/static/css/main.fa02b47b.css.map",
-    "main.c5a1c27a.js.map": "/kaido/static/js/main.c5a1c27a.js.map",
+    "main.82c2cbe3.css.map": "/kaido/static/css/main.82c2cbe3.css.map",
+    "main.f93cb3a2.js.map": "/kaido/static/js/main.f93cb3a2.js.map",
     "787.d0c7d9b2.chunk.js.map": "/kaido/static/js/787.d0c7d9b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa02b47b.css",
-    "static/js/main.c5a1c27a.js"
+    "static/css/main.82c2cbe3.css",
+    "static/js/main.f93cb3a2.js"
   ]
 }
