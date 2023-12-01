@@ -13,7 +13,7 @@
         "cta": "Commencez votre voyage"
     },
     "Presentation": {
-        "title": "L'élixir d'Argan : découvrez notre huile exceptionnelle",
+        "title": "L'huile d'argan : découvrez ce produit exceptionnel",
         "first_item": {
             "title": "Hydratation intense pour la peau",
             "first_title": "Hydratation profonde",
@@ -35,6 +35,7 @@
         "third_item": {
             "title": "Cheveux forts et soyeux",
             "first_title": "Revitalisation capillaire",
+            "first_desc": "L'huile d'argan, riche en acides gras, vitamines, et antioxydants, fortifie les cheveux de la racine aux pointes.",
             "second_title": "Nourrissante et brillante",
             "second_desc": "Elle nourrit profondément, renforce la fibre capillaire, et apporte une brillance naturelle.",
             "third_title": "Gestion des problèmes capillaires",

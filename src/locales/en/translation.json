@@ -13,7 +13,7 @@
         "cta": "Start your journey"
     },
     "Presentation": {
-        "title": "Argan elixir: discover our exceptional oil",
+        "title": "Argan oil: discover this exceptional product",
         "first_item": {
             "title": "Intense hydration for the skin",
             "first_title": "Deep hydration",
@@ -35,6 +35,7 @@
         "third_item": {
             "title": "Strong, silky hair",
             "first_title": "Hair revitalization",
+            "first_desc": "Argan oil, rich in fatty acids, vitamins and antioxidants, fortifies hair from root to tip.",
             "second_title": "Nourishing and brilliant",
             "second_desc": "Deeply nourishes, strengthens hair fiber and adds natural shine.",
             "third_title": "Managing hair problems",
