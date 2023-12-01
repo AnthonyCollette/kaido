@@ -51,7 +51,6 @@ const Presentation = () => {
                             <img src={hairsImg} alt='image' />
                         </div>
                         <h4>{t('Presentation.third_item.first_title')}</h4>
-                        <p>{t('Presentation.third_item.first_desc')}</p>
                         <h4>{t('Presentation.third_item.second_title')}</h4>
                         <p>{t('Presentation.third_item.second_desc')}</p>
                         <h4>{t('Presentation.third_item.third_title')}</h4>
