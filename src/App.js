@@ -6,12 +6,17 @@ import Error404 from './pages/Error404';
 import AboutPage from './pages/AboutPage';
 import Loading from './components/Loading';
 import Products from './pages/Products';
+import Nav from './components/Nav';
+import Footer from './components/Footer';
+import ScrollToTop from './components/ScrollToTop';
 
 function App(){
   
   return (
     <div className="App">
       <BrowserRouter>
+      <ScrollToTop />
+      <Nav />
         <Routes>
           <Route path="/" element={<Homepage />} />
           <Route path="/products" element={<Products />} />
@@ -19,6 +24,7 @@ function App(){
           <Route path="/contact" element={<Contact />} />
           <Route path="*" element={<Error404 />} />
         </Routes>
+      <Footer />
       </BrowserRouter>
     </div>
   );

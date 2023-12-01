@@ -20,7 +20,7 @@ i18n
     resources, // resources are important to load translations for the languages.
     lng: "FR", // It acts as default language. When the site loads, content is shown in this language.  
     debug: true,
-    fallbackLng: "de", // use de if selected language is not available
+    fallbackLng: "fr", // use fr if selected language is not available
     interpolation: {
       escapeValue: false
     },
