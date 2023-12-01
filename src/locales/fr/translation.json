@@ -7,7 +7,9 @@
     },
     "Hero": {
         "title": "Votre fournisseur d'huile d'argan authentique du Maroc",
-        "desc": "Bienvenue sur notre site, votre fournisseur d'huile d'argan authentique en provenance du Maroc. Plongez dans l'excellence de notre huile, où la tradition marocaine rencontre la qualité exceptionnelle. Découvrez l'huile d'argan du Maroc, symbole de beauté et de bien-être, disponible chez nous pour vous offrir une expérience sensorielle unique. <1>En tant que fournisseur d'huile d'argan, nous vous offrons une source authentique de bien-être, directement du Maroc à votre porte, le tout à un prix très attractif.</1> Convient aussi bien aux professionnels qu'aux particuliers, offrant une qualité exceptionnelle à tous.",
+        "desc_1": "Bienvenue sur notre site, votre fournisseur d'huile d'argan authentique en provenance du Maroc. Plongez dans l'excellence de notre huile, où la tradition marocaine rencontre la qualité exceptionnelle. Découvrez l'huile d'argan du Maroc, symbole de beauté et de bien-être, disponible chez nous pour vous offrir une expérience sensorielle unique. ",
+        "strong": "En tant que fournisseur d'huile d'argan, nous vous offrons une source authentique de bien-être, directement du Maroc à votre porte, le tout à un prix très attractif. ",
+        "desc_2": "Convient aussi bien aux professionnels qu'aux particuliers, offrant une qualité exceptionnelle à tous.",
         "cta": "Commencez votre voyage"
     },
     "Presentation": {
@@ -78,6 +80,21 @@
         "para_1": "Si vous cherchez à obtenir un devis personnalisé pour nos produits d'huile d'argan exceptionnels, vous êtes au bon endroit. Remplissez simplement le formulaire ci-dessous en fournissant autant de détails que possible sur vos besoins, et notre équipe vous fournira rapidement un devis détaillé et sur mesure. Chez Kaido, nous comprenons l'importance de s'adapter à vos exigences spécifiques et sommes impatients de vous proposer la meilleure offre possible.",
         "para_2": "À Kaido, nous croyons en la transparence et en la personnalisation. Obtenez un devis compétitif et adapté à vos besoins en nous fournissant quelques informations clés. Que vous soyez intéressé par nos différentes variétés d'huile d'argan ou que vous ayez des demandes spécifiques en termes de quantité, nous sommes là pour répondre à vos besoins. Cliquez sur le bouton ci-dessous pour démarrer le processus de devis et découvrir comment nos produits exceptionnels peuvent enrichir votre entreprise.",
         "cta": "Demandez votre devis"
+    },
+    "Contact-Page": {
+        "title_1": "Un ",
+        "span_1": "devis ",
+        "title_2": "? Une ",
+        "span_2": "question ",
+        "title_3": "? Nous vous répondons en ",
+        "span_3": "24h ",
+        "title_4": "!",
+        "desc": "Nos équipes restent à votre disposition pour répondre à vos demandes de devis, questions, informations.",
+        "name": "Nom",
+        "firstname": "Prenom",
+        "mail": "E-mail",
+        "message": "Message",
+        "button": "Demander mon devis"
     },
     "Footer": {
         "paragraph": "Plongez dans l'authenticité du Maroc avec notre huile d'argan pure, directement récoltée des terres ensoleillées du royaume. Chez Kaido, nous sommes fiers de vous offrir une expérience sensorielle unique, capturant la richesse naturelle de l'arganier. Chaque goutte de notre huile d'argan représente le savoir-faire traditionnel marocain et l'engagement envers la qualité. Explorez la beauté de la nature, découvrez les bienfaits de l'argan et laissez-vous emporter par une tradition millénaire, encapsulée dans chaque flacon que nous mettons à votre disposition.",

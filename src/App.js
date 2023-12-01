@@ -17,7 +17,6 @@ function App(){
           <Route path="/products" element={<Products />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/loading" element={<Loading />} />
           <Route path="*" element={<Error404 />} />
         </Routes>
       </BrowserRouter>

@@ -7,7 +7,9 @@
     },
     "Hero": {
         "title": "Your supplier of authentic Moroccan argan oil",
-        "desc": "Welcome to our website, your supplier of authentic argan oil from Morocco. Immerse yourself in the excellence of our oil, where Moroccan tradition meets exceptional quality. Discover Moroccan argan oil, a symbol of beauty and well-being, available from us to offer you a unique sensory experience. As a supplier of argan oil, we offer you an authentic source of well-being, direct from Morocco to your door, all at a very attractive price. Suitable for both professional and private customers, offering exceptional quality to all.",
+        "desc_1": "Welcome to our website, your supplier of authentic argan oil from Morocco. Immerse yourself in the excellence of our oil, where Moroccan tradition meets exceptional quality. Discover Moroccan argan oil, a symbol of beauty and well-being, available from us to offer you a unique sensory experience. ",
+        "strong": "As a supplier of argan oil, we offer you an authentic source of well-being, direct from Morocco to your door, all at a very attractive price. ",
+        "desc_2": "Suitable for both professional and private customers, offering exceptional quality to all.",
         "cta": "Start your journey"
     },
     "Presentation": {
@@ -78,6 +80,21 @@
         "para_1": "If you're looking for a customized quote for our exceptional argan oil products, you've come to the right place. Simply fill in the form below, providing as much detail as possible about your requirements, and our team will promptly provide you with a detailed, bespoke quote. At Kaido, we understand the importance of adapting to your specific requirements and look forward to providing you with the best possible offer.",
         "para_2": "At Kaido, we believe in transparency and personalization. Get a competitive quote tailored to your needs by providing us with a few key details. Whether you're interested in our different varieties of argan oil or have specific requests in terms of quantity, we're here to meet your needs. Click on the button below to start the quotation process and discover how our exceptional products can enrich your business.",
         "cta": "Ask for a quote"
+    },
+    "Contact-Page": {
+        "title_1": "Need a ",
+        "span_1": "quote ",
+        "title_2": "? Got a ",
+        "span_2": "question ",
+        "title_3": "? We'll get back to you within ",
+        "span_3": "24h ",
+        "title_4": "!",
+        "desc": "Our teams are at your disposal to answer your requests for quotes, questions and information.",
+        "name": "Last Name",
+        "firstname": "First Name",
+        "mail": "E-mail",
+        "message": "Message",
+        "button": "Request my quote"
     },
     "Footer": {
         "paragraph": "Immerse yourself in the authenticity of Morocco with our pure argan oil, harvested directly from the sun-drenched lands of the kingdom. At Kaido, we're proud to offer you a unique sensory experience, capturing the natural richness of the argan tree. Every drop of our argan oil represents traditional Moroccan craftsmanship and a commitment to quality. Explore the beauty of nature, discover the benefits of argan and let yourself be carried away by an age-old tradition, encapsulated in every bottle we make available to you.",
