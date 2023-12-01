@@ -44,8 +44,10 @@
         }
 
         &:hover {
-            h3 {
-                opacity: 0;
+            h3 {        
+                @include min($lg) {
+                    opacity: 0;
+                }
             }
 
             p,
@@ -66,10 +68,12 @@
 
         p,
         h4 {
-            opacity: 0;
             transition: all 0.4s ease-in-out;
             color: $color-002;
             text-align: justify;
+            @include min($lg) {
+                opacity: 0;
+            }
         }
 
         h4:not(:first-of-type) {

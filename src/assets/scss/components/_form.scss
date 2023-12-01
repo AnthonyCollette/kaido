@@ -27,7 +27,9 @@ form {
         margin-bottom: 30px;
         @include fontSize(18);
         position: relative;
-        opacity: 0;
+        @include min($lg) {
+            opacity: 0;
+        }
     }
     label {
         color: $color-006;
@@ -60,7 +62,9 @@ form {
     }
     .btn {
         width: 100%;
-        opacity: 0;
+        @include min($lg) {
+            opacity: 0;
+        }
     }
     .fg-input {
         label {

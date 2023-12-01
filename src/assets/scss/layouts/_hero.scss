@@ -12,7 +12,6 @@
 
     .img-wrapper {
         overflow: hidden;
-        opacity: 0;
         width: 80%;
         margin: 20px auto 0;
 
@@ -25,6 +24,7 @@
             position: absolute;
             top: 0;
             right: 0;
+            opacity: 0;
         }
     }
 
@@ -51,16 +51,18 @@
         &__text {
             background-color: $color-005;
             color: $color-002;
-            opacity: 0;
             margin-top: 20px;
 
             @include min($lg) {
                 padding: 50px;
                 max-width: 70%;
+                opacity: 0;
             }
 
             .content {
-                opacity: 0;
+                @include min($lg) {
+                    opacity: 0;
+                }
             }
         }
     }
@@ -85,6 +87,8 @@
 
         @include min($md) {
             margin-top: 50px;
+        }
+        @include min($lg) {
             opacity: 0;
         }
     }
