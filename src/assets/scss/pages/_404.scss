@@ -6,7 +6,11 @@
 
         p {
             margin-bottom: 200px;
-            @include fontSize(24);
+            @include fontSize(21);
+            text-align: center;
+            @include min($lg) {
+                @include fontSize(24); 
+            }
         }
 
         a {

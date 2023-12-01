@@ -10,21 +10,46 @@ h1 {
     @include fontSize(36);
 
     .hero & {
-        @include fontSize(48);
-        margin-bottom: 50px;
-        max-width: 90%;
+        @include fontSize(28);
+        margin-bottom: 30px;
+        text-align: center;
+        @include min($md) {
+            @include fontSize(48);
+        }
+        @include min($lg) {
+            margin-bottom: 50px;
+            text-align: left;
+            max-width: 90%;
+        }
     }
 
     .error-404 & {
-        @include fontSize(280);
+        @include fontSize(80);
         margin: 200px 0 20px;
+        @include min($lg) {
+            @include fontSize(280);
+            margin: 200px 0 20px;
+        }
+    }
+
+    .mentions & {
+        text-align: center;
     }
 }
 
 h2 {
     font-family: $primary-black;
-    @include fontSize(32);
+    @include fontSize(28);
     text-align: center;
+    @include min($md) {
+        @include fontSize(32);
+    }
+    .mentions & {
+        text-align: center;
+        @include min($lg) {
+            text-align: left;
+        }
+    }
 }
 
 h3 {

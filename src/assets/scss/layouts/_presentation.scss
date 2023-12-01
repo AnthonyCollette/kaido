@@ -1,55 +1,86 @@
 .presentation {
     background-color: $color-003;
     padding: 50px 0;
-    margin: 150px 0 0;
+
+    @include min($lg) {
+        padding: 50px 0;
+        margin: 100px 0 0;
+    }
+
     h2 {
         margin-bottom: 50px;
         color: $color-006;
     }
+
     .cards {
         display: flex;
-        align-items: stretch;
-        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
         margin-top: 30px;
-        gap: 50px;
+        gap: 20px;
+
+        @include min($lg) {
+            flex-direction: row;
+            align-items: stretch;
+            justify-content: space-between;
+            gap: 50px;
+        }
     }
+
     .card {
         background-color: $color-007;
-        padding: 50px;
+        padding: 30px;
         position: relative;
         overflow: hidden;
         z-index: 2;
-        opacity: 0;
-        width: 33%;
+
+        @include min($lg) {
+            opacity: 0;
+            width: 33%;
+        }
+
+        @include min($xl) {
+            padding: 50px;
+        }
+
         &:hover {
             h3 {
                 opacity: 0;
             }
-            p, h4 {
+
+            p,
+            h4 {
                 opacity: 1;
             }
+
             .img-wrapper .overlay {
                 background-color: rgba($color: $color-004, $alpha: 0.8);
             }
         }
+
         h3 {
             color: $color-002;
             transition: all 0.4s ease-in-out;
             max-width: 80%;
         }
-        p, h4 {
+
+        p,
+        h4 {
             opacity: 0;
             transition: all 0.4s ease-in-out;
             color: $color-002;
             text-align: justify;
         }
+
         h4:not(:first-of-type) {
             margin-top: 20px;
         }
+
         .img-wrapper {
             position: absolute;
             inset: 0;
             z-index: -1;
+
             .overlay {
                 position: absolute;
                 inset: 0;
@@ -60,6 +91,7 @@
                 justify-content: center;
                 transition: all 0.4s ease-in-out;
             }
+
             img {
                 width: 100%;
                 height: 100%;

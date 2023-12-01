@@ -1,0 +1,19 @@
+.mentions {
+    .container {
+        padding: 20px 0;
+        @include min($lg) {
+            padding: 50px 0;
+        }
+    }
+    h1 {
+        margin-bottom: 20px;
+        color: $color-005;
+        @include min($lg) {
+            margin-bottom: 30px;
+        }
+    }
+    h2 {
+        margin-top: 20px;
+        color: $color-005;
+    }
+}

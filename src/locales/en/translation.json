@@ -102,6 +102,23 @@
         "developer_site": "© 2023 - Website created by Anthony Collette",
         "social_media": "Follow me here"
     },
+    "Mentions": {
+        "title": "LEGAL INFORMATION",
+        "desc_1": "In accordance with the provisions of French law no. 2004-575 of June 21, 2004 on confidence in the digital economy, users of the SHOP ATLAS website are informed of the identity of the various parties involved in its creation and follow-up.",
+        "title_2": "Site editing",
+        "desc_2": "This site, accessible at the URL www.moroccanarganoil.fr (the 'Site'), is published by :",
+        "desc_3": "Anas SLIMANI, residing at 5 rue de Verdun 60100 CREIL, of French nationality (France), born on 04/09/2001, registered with the R.C.S. of COMPIEGNE under number 980 450 738 RCS COMPIEGNE,",
+        "title_3": "Hosting",
+        "desc_4": "The Site is hosted by OVH SAS, located at 2 rue Kellermann - BP 80157 - 59053 Roubaix Cedex 1, (telephone contact or e-mail: 1007).",
+        "title_4": "Publishing Director",
+        "desc_5": "The Site's Publishing Director is Anas SLIMANI.",
+        "title_5": "Contact us",
+        "desc_6": "By phone : +33769328523",
+        "desc_7": "By email : hello.shopatlas@gmail.com",
+        "desc_8": "By post : 5 rue de Verdun 60100 CREIL",
+        "title_6": "Personal data",
+        "desc_9": "The processing of your personal data is governed by our Privacy Charter, available from the 'Personal Data Protection Charter' section, in accordance with the General Data Protection Regulation 2016/679 of April 27, 2016 ('GDPR')."
+    },
     "404": {
         "title": "Oops, this link doesn't seem to exist, sorry!",
         "link": "Back to home page"

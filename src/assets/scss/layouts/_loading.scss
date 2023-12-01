@@ -6,13 +6,19 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    .wrapper {
+        position: absolute;
+        width: 500px;
+        max-width: 80%;
+    }
     .logo {
-        width: 20vw;
+        width: 100%;
     }
     .picto {
         position: absolute;
-        top: 40vh;
-        width: 5vw;
+        width: 20%;
+        left: 40%;
+        top: 13%;
         animation: rotate 4s infinite linear;
     }
 }

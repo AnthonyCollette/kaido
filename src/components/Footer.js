@@ -2,6 +2,7 @@ import React from 'react';
 import { useTranslation } from 'react-i18next'
 import { RiFacebookBoxFill, RiTwitterXFill } from "react-icons/ri";
 import { FaInstagramSquare } from "react-icons/fa";
+import { Link } from 'react-router-dom';
 
 const Footer = () => {
     const { t } = useTranslation()
@@ -15,9 +16,7 @@ const Footer = () => {
                     </p>
                 </div>
                 <div className='footer-column'>
-                    <p>
-                        {t('Footer.author_site')}
-                    </p>
+                    <Link to="/mentions-legales">Mentions légales</Link>
                     <a href='https://anthonycollette.fr' target='_blank'>
                         {t('Footer.developer_site')}
                     </a>

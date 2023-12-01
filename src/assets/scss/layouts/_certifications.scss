@@ -1,18 +1,29 @@
 .certifications {
     .container {
-        padding: 100px 0;
-        opacity: 0;
+        padding: 20px 0;
+        @include min($lg) {
+            padding: 100px 0;
+            opacity: 0;
+        }
     }
     h2 {
-        margin-bottom: 50px;
+        margin-bottom: 20px;
+        @include min($lg) {
+            margin-bottom: 50px; 
+        }
     }
     &--logos {
         display: flex;
         align-items: center;
         justify-content: center;
-        gap: 50px;
+        gap: 20px;
         margin-top: 20px;
+        flex-wrap: wrap;
+        @include min($lg) {
+            gap: 50px;
+        }
         .image-wrapper {
+            max-width: 40%;
             width: 150px;
             height: 100%;
             opacity: 0;

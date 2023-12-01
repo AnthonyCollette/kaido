@@ -102,6 +102,23 @@
         "developer_site": "© 2023 - Site créé par Anthony Collette",
         "social_media": "Retrouvez-moi ici"
     },
+    "Mentions": {
+        "title": "MENTIONS LÉGALES",
+        "desc_1": "Conformément aux dispositions de la loi n° 2004-575 du 21 juin 2004 pour la confiance en l'économie numérique, il est précisé aux utilisateurs du site SHOP ATLAS l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi.",
+        "title_2": "Edition du site",
+        "desc_2": "Le présent site, accessible à l’URL www.moroccanarganoil.fr (le « Site »), est édité par :",
+        "desc_3": "Anas SLIMANI, résidant 5 rue de Verdun 60100 CREIL, de nationalité Française (France), né(e) le 04/09/2001,  inscrite au R.C.S. de COMPIEGNE sous le numéro 980 450 738 RCS COMPIÈGNE,",
+        "title_3": "Hébergement",
+        "desc_4": "Le Site est hébergé par la société OVH SAS, situé 2 rue Kellermann - BP 80157 - 59053 Roubaix Cedex 1, (contact téléphonique ou email : 1007).",
+        "title_4": "Directeur de publication",
+        "desc_5": "Le Directeur de la publication du Site est Anas SLIMANI.",
+        "title_5": "Nous contacter",
+        "desc_6": "Par téléphone : +33769328523",
+        "desc_7": "Par email : hello.shopatlas@gmail.com",
+        "desc_8": "Par courrier : 5 rue de Verdun 60100 CREIL",
+        "title_6": "Données personnelles",
+        "desc_9": "Le traitement de vos données à caractère personnel est régi par notre Charte du respect de la vie privée, disponible depuis la section 'Charte de Protection des Données Personnelles', conformément au Règlement Général sur la Protection des Données 2016/679 du 27 avril 2016 («RGPD»)."
+    },
     "404": {
         "title": "Oups, il semblerait que ce lien n'existe pas, désolé !",
         "link": "Retourner à la page d'accueil"
