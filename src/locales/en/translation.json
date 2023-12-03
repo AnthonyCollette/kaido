@@ -1,7 +1,7 @@
 {
     "Nav": {
         "home": "Home",
-        "products": "Products",
+        "products": "The oil",
         "about": "About",
         "contact": "Contact"
     },
@@ -43,8 +43,8 @@
         }
     },
     "Products": {
-        "Main_Title": "Benefits",
-        "Main_Desc": "The argan oil we offer is much more than just a beauty product - it's a true natural treasure with multiple benefits. Extracted from the nuts of the argan tree in the heart of Morocco, this precious oil is an ancestral secret for radiant skin and glowing hair.",
+        "Main_Title": "What is argan oil used for ?",
+        "Main_Desc": "The argan oil we offer is much more than just a beauty product - it's a genuine natural treasure with multiple benefits. Directly extracted from the nuts of the argan tree in the heart of Morocco, this precious 100% organic and natural oil is obtained by cold pressing, preserving all its essential properties.",
         "Product_1": {
             "title": "Intense hydration for the skin",
             "desc": "Argan oil is an invaluable ally for skin hydration. Thanks to its richness in essential fatty acids, particularly linoleic and oleic acid, this precious oil penetrates deeply to nourish and moisturize the skin. It restores the skin's natural barrier, leaving it soft, supple and revitalized. Whether you apply it to your face or body, argan oil offers intense hydration without leaving a greasy feel, revealing radiant, well-nourished skin. The restorative benefits of argan oil are remarkable for soothing and treating damaged skin. Whether caused by external aggression, the sun or skin irritation, its healing properties promote tissue regeneration, reducing redness and inflammation."
@@ -98,7 +98,7 @@
         "button": "Request my quote"
     },
     "Footer": {
-        "paragraph": "Immerse yourself in the authenticity of Morocco with our pure argan oil, harvested directly from the sun-drenched lands of the kingdom. At Kaido, we're proud to offer you a unique sensory experience, capturing the natural richness of the argan tree. Every drop of our argan oil represents traditional Moroccan craftsmanship and a commitment to quality. Explore the beauty of nature, discover the benefits of argan and let yourself be carried away by an age-old tradition, encapsulated in every bottle we make available to you.",
+        "paragraph": "Your supplier of 100% natural, organic argan oil direct from Morocco. Immerse yourself in the authenticity of our oil, where every drop reflects the purity of Moroccan tradition. Discover the exceptional benefits of our argan oil, guaranteed 100% natural and organic.",
         "author_site": "Text and images by Kaido Sama",
         "developer_site": "© 2023 - Website created by Anthony Collette",
         "social_media": "Follow me here"

@@ -1,7 +1,7 @@
 {
     "Nav": {
         "home": "Accueil",
-        "products": "Produits",
+        "products": "L'huile",
         "about": "A propos",
         "contact": "Contact"
     },
@@ -43,8 +43,8 @@
         }
     },
     "Products": {
-        "Main_Title": "Bienfaits",
-        "Main_Desc": "L'huile d'argan que nous proposons est bien plus qu'un simple produit de beauté – c'est un véritable trésor naturel aux multiples bienfaits. Extraite des noix d'arganier au cœur du Maroc, cette huile précieuse est un secret ancestral pour une peau éclatante et des cheveux resplendissants.",
+        "Main_Title": "A quoi sert l'huile d'argan ?",
+        "Main_Desc": "L'huile d'argan que nous proposons est bien plus qu'un simple produit de beauté – c'est un véritable trésor naturel aux multiples bienfaits. Directement extraite des noix d'arganier au cœur du Maroc, cette huile précieuse, 100% bio et naturelle, est obtenue par pression à froid, préservant ainsi toutes ses propriétés essentielles.",
         "Product_1": {
             "title": "Hydratation intense pour la peau",
             "desc": "L'huile d'argan est une alliée inestimable pour une hydratation de la peau. Grâce à sa richesse en acides gras essentiels, en particulier l'acide linoléique et l'acide oléique, cette huile précieuse pénètre en profondeur pour nourrir et hydrater la peau. Elle restaure la barrière cutanée naturelle, laissant la peau douce, souple et revitalisée. Que vous l'appliquiez sur votre visage ou votre corps, l'huile d'argan offre une hydratation intense sans laisser de sensation grasse, révélant une peau rayonnante et bien nourrie. Les bienfaits réparateurs de l'huile d'argan sont remarquables pour apaiser et traiter les peaux endommagées. Que ce soit par les agressions extérieures, le soleil, ou les irritations cutanées, ses propriétés cicatrisantes favorisent la régénération des tissus, réduisant ainsi les rougeurs et les inflammations."
@@ -98,7 +98,7 @@
         "button": "Demander mon devis"
     },
     "Footer": {
-        "paragraph": "Plongez dans l'authenticité du Maroc avec notre huile d'argan pure, directement récoltée des terres ensoleillées du royaume. Chez Kaido, nous sommes fiers de vous offrir une expérience sensorielle unique, capturant la richesse naturelle de l'arganier. Chaque goutte de notre huile d'argan représente le savoir-faire traditionnel marocain et l'engagement envers la qualité. Explorez la beauté de la nature, découvrez les bienfaits de l'argan et laissez-vous emporter par une tradition millénaire, encapsulée dans chaque flacon que nous mettons à votre disposition.",
+        "paragraph": "Votre fournisseur d'huile d'argan 100% naturelle et bio en provenance directe du Maroc. Plongez dans l'authenticité de notre huile, où chaque goutte reflète la pureté de la tradition marocaine. Découvrez les bienfaits exceptionnels de notre huile d'argan, garantie 100% naturelle et biologique.",
         "author_site": "Textes et images par Kaido Sama",
         "developer_site": "© 2023 - Site créé par Anthony Collette",
         "social_media": "Retrouvez-moi ici"
