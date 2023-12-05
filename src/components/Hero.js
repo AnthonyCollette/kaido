@@ -4,7 +4,6 @@ import banner from '../assets/images/banner.jpg';
 import { useIsVisible } from '..';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 
-
 const Hero = () => {
 
     const contentRef = useRef()

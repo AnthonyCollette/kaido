@@ -22,7 +22,7 @@ const Footer = () => {
                     </a>
                 </div>
                 <div className='footer-column'>
-                    <h5>
+                    {/* <h5>
                         {t('Footer.social_media')}
                     </h5>
                     <div className='social-medias'>
@@ -35,7 +35,7 @@ const Footer = () => {
                         <a href='instagram.com'>
                             <FaInstagramSquare />
                         </a>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </footer>

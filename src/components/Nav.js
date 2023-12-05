@@ -21,7 +21,6 @@ const Nav = () => {
             document.body.style.overflow = "scroll"
         }
     }, [open]);
-
     return (
         <header>
             <nav>
