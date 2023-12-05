@@ -9,6 +9,10 @@ const Nav = () => {
 
     const [open, setOpen] = useState(false)
 
+    const handleClickNavItem = () => {
+        setOpen(false)
+    }
+
     const handleClick = () => {
         setOpen(!open)
     }
@@ -33,22 +37,22 @@ const Nav = () => {
                     <div className='nav--right'>
                         <ul className={open ? "opened" : ""}>
                             <li>
-                                <NavLink to="/" className={({ isActive }) => isActive ? 'active' : ''}>
+                                <NavLink to="/" className={({ isActive }) => isActive ? 'active' : ''} onClick={handleClickNavItem}>
                                     {t('Nav.home')}
                                 </NavLink>
                             </li>
                             <li>
-                                <NavLink to="/products" className={({ isActive }) => isActive ? 'active' : ''}>
+                                <NavLink to="/products" className={({ isActive }) => isActive ? 'active' : ''} onClick={handleClickNavItem}>
                                     {t('Nav.products')}
                                 </NavLink>
                             </li>
                             <li>
-                                <NavLink to="/about" className={({ isActive }) => isActive ? 'active' : ''}>
+                                <NavLink to="/about" className={({ isActive }) => isActive ? 'active' : ''} onClick={handleClickNavItem}>
                                     {t('Nav.about')}
                                 </NavLink>
                             </li>
                             <li>
-                                <NavLink to="/contact" className={({ isActive }) => isActive ? 'active' : ''}>
+                                <NavLink to="/contact" className={({ isActive }) => isActive ? 'active' : ''} onClick={handleClickNavItem}>
                                     {t('Nav.contact')}
                                 </NavLink>
                             </li>
