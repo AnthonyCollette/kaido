@@ -22,6 +22,16 @@ const Footer = () => {
                     </a>
                 </div>
                 <div className='footer-column'>
+                    <h5>
+                        {t('Footer.links')}
+                    </h5>
+                    <div className='links'>
+                        <ul>
+                            <li><Link to="/products">{t('Footer.link1')}</Link></li>
+                            <li><Link to="/about">{t('Footer.link2')}</Link></li>
+                            <li><Link to="/contact">{t('Footer.link3')}</Link></li>
+                        </ul>
+                    </div>
                     {/* <h5>
                         {t('Footer.social_media')}
                     </h5>

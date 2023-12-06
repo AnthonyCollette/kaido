@@ -107,7 +107,11 @@
         "paragraph": "Votre fournisseur d'huile d'argan 100% naturelle et bio en provenance directe du Maroc. Plongez dans l'authenticité de notre huile, où chaque goutte reflète la pureté de la tradition marocaine. Découvrez les bienfaits exceptionnels de notre huile d'argan, garantie 100% naturelle et biologique.",
         "author_site": "Textes et images par Kaido Sama",
         "developer_site": "© 2023 - Site créé par Anthony Collette",
-        "social_media": "Retrouvez-moi ici"
+        "social_media": "Retrouvez-moi ici",
+        "links": "Liens rapides",
+        "link1": "L'huile",
+        "link2": "A propos",
+        "link3": "Contact"
     },
     "Mentions": {
         "title": "MENTIONS LÉGALES",

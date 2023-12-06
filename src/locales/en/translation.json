@@ -107,7 +107,11 @@
         "paragraph": "Your supplier of 100% natural, organic argan oil direct from Morocco. Immerse yourself in the authenticity of our oil, where every drop reflects the purity of Moroccan tradition. Discover the exceptional benefits of our argan oil, guaranteed 100% natural and organic.",
         "author_site": "Text and images by Kaido Sama",
         "developer_site": "© 2023 - Website created by Anthony Collette",
-        "social_media": "Follow me here"
+        "social_media": "Follow me here",
+        "links": "Quick Links",
+        "link1": "The oil",
+        "link2": "About",
+        "link3": "Contact"
     },
     "Mentions": {
         "title": "LEGAL INFORMATION",

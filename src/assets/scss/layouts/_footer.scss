@@ -21,6 +21,14 @@ footer {
             justify-content: space-between;
             gap: 100px;
         }
+        .links {
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            li {
+                margin-bottom: 5px;
+            }
+        }
         .footer-column {
             @include min($lg) {
                 width: 33%; 
