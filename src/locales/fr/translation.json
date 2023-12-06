@@ -129,5 +129,9 @@
     "404": {
         "title": "Oups, il semblerait que ce lien n'existe pas, désolé !",
         "link": "Retourner à la page d'accueil"
+    },
+    "Cookies": {
+        "text": "Ce site web utilise des cookies pour améliorer l'expérience de l'utilisateur.",
+        "button": "J'ai compris"
     }
 }
