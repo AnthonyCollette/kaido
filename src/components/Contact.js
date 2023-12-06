@@ -2,7 +2,7 @@ import React, { useRef } from 'react';
 import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom';
 import { useIsVisible } from '..';
-import Image from '../assets/images/Mysterious bottle of argan oil.png';
+import Image from '../assets/images/Mysterious bottle of argan oil.webp';
 
 const Contact = () => {
 

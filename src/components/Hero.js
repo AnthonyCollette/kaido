@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import { useTranslation } from 'react-i18next';
-import banner from '../assets/images/banner.jpg';
+import banner from '../assets/images/banner.webp';
 import { useIsVisible } from '..';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 

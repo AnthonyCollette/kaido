@@ -1,8 +1,8 @@
 import React, { useRef } from 'react';
 import { useTranslation } from 'react-i18next'
-import hydratationImg from '../assets/images/hydratation.jpg'
-import youngImg from '../assets/images/young.jpg'
-import hairsImg from '../assets/images/hairs.jpg'
+import hydratationImg from '../assets/images/hydratation.webp'
+import youngImg from '../assets/images/young.webp'
+import hairsImg from '../assets/images/hairs.webp'
 import { useIsVisible } from '..';
 
 const Presentation = () => {
