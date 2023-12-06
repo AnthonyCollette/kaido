@@ -68,3 +68,15 @@ strong {
 .slideInRight {
     animation: slideInRight 0.8s ease-in-out forwards;
 }
+
+.display-none {
+    display: none;
+}
+
+.success {
+    color: $color-success;
+}
+
+.error {
+    color: $color-error;
+}

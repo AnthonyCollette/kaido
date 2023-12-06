@@ -1,6 +1,6 @@
 {
     "Site": {
-        "title": "Atlas Shop, your argan oil supplier",
+        "title": "Shop Atlas, your argan oil supplier",
         "desc": "Wholesaler / Supplier 100% pure and natural organic argan oil from Morocco, certified by Ecocert AB and USDA."
     },
     "Nav": {
@@ -99,7 +99,9 @@
         "firstname": "First Name",
         "mail": "E-mail",
         "message": "Message",
-        "button": "Request my quote"
+        "button": "Request my quote",
+        "success": "Your request has been sent! You will receive a reply as soon as possible.",
+        "error": "An error has occurred! Please try again later."
     },
     "Footer": {
         "paragraph": "Your supplier of 100% natural, organic argan oil direct from Morocco. Immerse yourself in the authenticity of our oil, where every drop reflects the purity of Moroccan tradition. Discover the exceptional benefits of our argan oil, guaranteed 100% natural and organic.",

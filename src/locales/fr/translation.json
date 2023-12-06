@@ -1,6 +1,6 @@
 {
     "Site": {
-        "title": "Atlas Shop, votre fournisseur d'huile d'argan",
+        "title": "Shop Atlas, votre fournisseur d'huile d'argan",
         "desc": "Grossiste / Fournisseur huile d'argan bio 100% pure et naturelle du Maroc, certifiée par Ecocert AB et USDA."
     },
     "Nav": {
@@ -99,7 +99,9 @@
         "firstname": "Prenom",
         "mail": "E-mail",
         "message": "Message",
-        "button": "Demander mon devis"
+        "button": "Demander mon devis",
+        "success": "Votre demande a bien été envoyée ! Vous aurez une réponse dans les plus brefs délais.",
+        "error": "Une erreur est survenue ! Merci de réessayer ultérieurement."
     },
     "Footer": {
         "paragraph": "Votre fournisseur d'huile d'argan 100% naturelle et bio en provenance directe du Maroc. Plongez dans l'authenticité de notre huile, où chaque goutte reflète la pureté de la tradition marocaine. Découvrez les bienfaits exceptionnels de notre huile d'argan, garantie 100% naturelle et biologique.",
