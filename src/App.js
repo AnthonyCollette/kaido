@@ -11,7 +11,6 @@ import Footer from './components/Footer';
 import ScrollToTop from './components/ScrollToTop';
 import MentionsLegales from './pages/MentionsLegales';
 import { useTranslation } from 'react-i18next'
-import CookieConsent from 'react-cookie-consent';
 
 function App() {
 
@@ -20,10 +19,6 @@ function App() {
   return (
     <div className="App">
       <HashRouter>
-        <CookieConsent
-         buttonText={t('Cookies.button')} buttonStyle={{backgroundColor: "#F2D6BD", border: "none"}}>
-          {t('Cookies.text')}
-        </CookieConsent>
         <ScrollToTop />
         <Helmet>
           <title>{t('Site.title')}</title>

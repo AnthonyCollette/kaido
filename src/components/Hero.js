@@ -1,6 +1,7 @@
 import React, { useRef } from 'react';
 import { useTranslation } from 'react-i18next';
 import banner from '../assets/images/banner.webp';
+import bannerMobile from '../assets/images/banner-mobile.webp';
 import { useIsVisible } from '..';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 
@@ -15,7 +16,11 @@ const Hero = () => {
     return (
         <section className='hero'>
             <div ref={imgRef} className={imgRefIsVisible ? 'img-wrapper fadeIn' : 'img-wrapper'}>
-                <img src={banner} alt='Bannière' />
+                <picture>
+                    <source media='(min-width: 576px)' srcSet={banner} alt="Flacon d'huile d'argan" />
+                    <img src={bannerMobile} alt="Flacon d'huile d'argan" />
+                </picture>
+                
             </div>
             <div className='hero--content'>
                 <div className='container'>

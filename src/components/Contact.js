@@ -2,7 +2,8 @@ import React, { useRef } from 'react';
 import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom';
 import { useIsVisible } from '..';
-import Image from '../assets/images/Mysterious bottle of argan oil.webp';
+import Image from '../assets/images/Mysterious+bottle+of+argan+oil.webp';
+import ImageMobile from '../assets/images/Mysterious+bottle+of+argan+oil-mobile.webp';
 
 const Contact = () => {
 
@@ -30,7 +31,11 @@ const Contact = () => {
 
             <div className='container' ref={contactRef}>
                 <div className={contactRefIsVisible ? 'img-wrapper slideInLeft' : 'img-wrapper'} >
-                    <img src={Image} alt="Photo d'une bouteille d'huile d'argan" />
+                    <picture>
+                        <source media='(min-width: 576px)' srcSet={Image} alt="Bouteille d'huile d'argan" />
+                        <img src={ImageMobile} alt="Bouteille d'huile d'argan" />
+                    </picture>
+                    
                 </div>
                 <div className={contactRefIsVisible ? 'contact-section--content slideInRight' : 'contact-section--content'} >
                     <h2>{t('Contact-Section.title')}</h2>
