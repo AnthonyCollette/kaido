@@ -1,13 +1,11 @@
 {
   "files": {
-    "main.css": "/kaido/static/css/main.e86ea762.css",
-    "main.js": "/kaido/static/js/main.acb972fe.js",
+    "main.css": "/kaido/static/css/main.61c1b8ad.css",
+    "main.js": "/kaido/static/js/main.6eff7fe4.js",
     "static/js/787.d0c7d9b2.chunk.js": "/kaido/static/js/787.d0c7d9b2.chunk.js",
     "static/media/young.jpg": "/kaido/static/media/young.7e7a9f3289a71f8d1e1c.jpg",
     "static/media/hairs.jpg": "/kaido/static/media/hairs.b9f69315c258aa9b38df.jpg",
     "static/media/hydratation.jpg": "/kaido/static/media/hydratation.71841eeb300aa84dfa55.jpg",
-    "static/media/Mysterious bottle of argan oil.png": "/kaido/static/media/Mysterious bottle of argan oil.4a07ca910c48cb392feb.png",
-    "static/media/banner.jpg": "/kaido/static/media/banner.b0fbdafb86bbe37059dd.jpg",
     "static/media/argan.webp": "/kaido/static/media/argan.e16502a7cefbb5b47fe9.webp",
     "static/media/hafida-abousalih-KYKjCEypbgc-unsplash.webp": "/kaido/static/media/hafida-abousalih-KYKjCEypbgc-unsplash.dbd263e4a22cd70a71e2.webp",
     "static/media/Montserrat-Black.ttf": "/kaido/static/media/Montserrat-Black.beacc26b4bbaaf608567.ttf",
@@ -21,14 +19,21 @@
     "static/media/picto-logo.png": "/kaido/static/media/picto-logo.d5c25d4530cf6efe0705.png",
     "static/media/AB_eurofeuille.png": "/kaido/static/media/AB_eurofeuille.d96a8512be9b9da03d95.png",
     "static/media/Logo_ecocert.png": "/kaido/static/media/Logo_ecocert.f90941480cac05817493.png",
+    "static/media/Mysterious+bottle+of+argan+oil.webp": "/kaido/static/media/Mysterious+bottle+of+argan+oil.27a0c4db84ebe7987410.webp",
     "static/media/logo.png": "/kaido/static/media/logo.55d5e2a5c189c990883b.png",
+    "static/media/banner.webp": "/kaido/static/media/banner.556621d1da731008d69b.webp",
+    "static/media/young.webp": "/kaido/static/media/young.88cc018fc070a9f54ece.webp",
+    "static/media/hairs.webp": "/kaido/static/media/hairs.ccfc40471309dddfc6a9.webp",
+    "static/media/hydratation.webp": "/kaido/static/media/hydratation.95ce355980b30c8ca5c9.webp",
+    "static/media/Mysterious+bottle+of+argan+oil-mobile.webp": "/kaido/static/media/Mysterious+bottle+of+argan+oil-mobile.19b2bb547e3fea038c16.webp",
+    "static/media/banner-mobile.webp": "/kaido/static/media/banner-mobile.0ea06b9defd79342c5ea.webp",
     "index.html": "/kaido/index.html",
-    "main.e86ea762.css.map": "/kaido/static/css/main.e86ea762.css.map",
-    "main.acb972fe.js.map": "/kaido/static/js/main.acb972fe.js.map",
+    "main.61c1b8ad.css.map": "/kaido/static/css/main.61c1b8ad.css.map",
+    "main.6eff7fe4.js.map": "/kaido/static/js/main.6eff7fe4.js.map",
     "787.d0c7d9b2.chunk.js.map": "/kaido/static/js/787.d0c7d9b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e86ea762.css",
-    "static/js/main.acb972fe.js"
+    "static/css/main.61c1b8ad.css",
+    "static/js/main.6eff7fe4.js"
   ]
 }
